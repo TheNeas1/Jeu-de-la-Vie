@@ -29,3 +29,16 @@ Les paramètres peuvent être modifiés directement dans le code :
   - chanceToStartAlive : probabilité initiale qu'une cellule soit vivante.
   - birthLimit et deathLimit : définissent les seuils de naissance et de mort pour les cellules.
   - nbIteration : nombre d'itérations du jeu.
+  
+Comment l'exécuter
+1 . Cloner le fichier depuis GitHub :
+
+git clone https://github.com/TheNeas1/Jeu-de-la-Vie.git
+
+2 . Compiler le fichier main.c avec gcc :
+
+gcc main.c -o Jeu-de-la-Vie
+
+3 . Lancer le jeu :
+
+./Jeu-de-la-Vie
