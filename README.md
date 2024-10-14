@@ -8,7 +8,6 @@ Le "Jeu de la Vie" suit les règles suivantes :
 
   - Naissance : Si une cellule est morte mais qu'elle a au moins birthLimit voisins vivants, elle devient vivante.
   - Mort : Si une cellule est vivante et possède moins de deathLimit voisins vivants, elle meurt.
-  - Survie : Si une cellule vivante a au moins deathLimit voisins vivants, elle reste vivante.
   
 Ces règles sont appliquées à chaque cellule de la grille simultanément pour générer la grille suivante.
 
