@@ -30,7 +30,8 @@ Les paramètres peuvent être modifiés directement dans le code :
   - birthLimit et deathLimit : définissent les seuils de naissance et de mort pour les cellules.
   - nbIteration : nombre d'itérations du jeu.
   
-Comment l'exécuter
+#Comment l'exécuter
+
 1 . Cloner le fichier depuis GitHub :
 
 git clone https://github.com/TheNeas1/Jeu-de-la-Vie.git
